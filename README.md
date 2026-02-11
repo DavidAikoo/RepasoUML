@@ -37,3 +37,6 @@ Ejemplo:
    | + getNombre() : String       |
    +------------------------------+
 ```
+
+**Agregación** ◇ Universidad tiene Estudiantes, pero estudiantes existen sin universidad
+**Multiplicidad** 1 Universidad. 0...* Estudiantes
