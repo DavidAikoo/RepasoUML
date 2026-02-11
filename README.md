@@ -14,3 +14,16 @@ Ejemplo:
 
 | Universidad |
 | ---- |
+| - nombre : String |
+| - estudiantes : ArrayList<Estudiante> |
+| ---- |
+| + Universidad(nombre:String) |
+| + agregarEstudiante(e:Estudiante) : void |
+| + mostrarEstudiantes(): void |
+
+| Estudiante |
+| ---- |
+| - nombre : Stirng |
+| ---- | 
+| + Estudiante(nombre:String) |
+| + getNomrbe() : String |
