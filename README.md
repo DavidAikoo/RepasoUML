@@ -9,3 +9,8 @@ Este proyecto contiene:
 - Ejemplo practico que implementa UML en código
 
 El objetivo es entender como las relaciones UML funcionan en POO
+
+Ejemplo:
+
+| Universidad |
+| ---- |
